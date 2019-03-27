@@ -1,4 +1,3 @@
 This is a good start.
 Creating a new branch is quick.
-Line1
 This is working something;
